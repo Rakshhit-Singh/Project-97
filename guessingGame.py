@@ -24,4 +24,4 @@ while chances<5:
     chances+=1
 
 if chances==5 and a!= a:
-    print("YOU LOSE")
+    print("YOU LOSE, the number is ", a)
